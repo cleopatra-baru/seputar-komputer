@@ -1,5 +1,5 @@
-# Selamat Datang di Seputar Komputer
+# Halaman Sudah Berpindah
 
-Ini adalah halaman utama dari situs GitHub Pages kamu.
+Website ini sekarang menggunakan tampilan HTML penuh.
 
-[Lihat artikel: Mengenal Cloud Computing](mengenal-cloud-computing.md)
+Silakan kunjungi [halaman utama](index.html) atau [artikel Cloud Computing](cloud-computing.html).
