@@ -1,9 +1,7 @@
 # Mengenal Lebih Dekat: Apa Itu Cloud Computing?
-
+![Ilustrasi Cloud Computing](cloud-computing.jpg.jpg)
 Cloud computing menjadi salah satu istilah yang paling populer dalam dunia komputer saat ini. Tapi sebenarnya, apa itu cloud computing? Mari simak penjelasannya berikut ini.
-
 ## Apa Itu Cloud Computing?
-
 **Cloud computing** adalah teknologi yang memungkinkan kamu menyimpan, mengelola, dan mengakses data melalui internet, bukan di komputer pribadi atau server lokal. Layanan cloud computing biasanya mencakup tiga kategori utama:
 
 - **Infrastructure as a Service (IaaS)** – Menyediakan infrastruktur seperti server virtual, jaringan, dan penyimpanan data.
